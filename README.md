@@ -1,4 +1,4 @@
-# This space constantly under construction (and likely full of typos)
+# This space cnstantly under construction (and likely full of typos)
 "Why?", you ask? Becasue I teach people how to make their first repo, new branch, and pull request using the Profile README, and thus am constantly making changes to my own profile to explain these concepts! 
 
 ## Pj, you can just use a different repo and keep a nice, clean, professional README on your GitHub Profile. Afterall, don't you work for GitHub? 
