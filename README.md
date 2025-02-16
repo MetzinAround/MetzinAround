@@ -9,6 +9,8 @@ Indeed, dear reader. I do work for GitHub. And perhaps a nice clean professional
 
 Wow that picture was wild. Good job, Pj. 
 
+> Local florida man arrested for saying java is shorthand for javascript.
+
 ## Alright, point made. Have fun with it, I guess?
 
 There's no other way, my friend. 
