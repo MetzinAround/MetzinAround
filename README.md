@@ -5,7 +5,7 @@
 
 Indeed, dear reader. I do work for GitHub. And perhaps a nice clean professional README is something a professional person should have. But using my own profile emphasizes the real world effects of making changes to your main repo and lets me have a little fun. Like how the picture coming up will change every time I do this exercise, so visitors to my profile will never know what they're gonna get. 
 
-![a anime character wearing florida hat and shirt and holding florida beverages with the text underneath reading "florida Mentioned"](assets/Pj_flexin.jpg)
+![Pj standing with his back to the camera. He is wearing a jacket that says "Plus Ultra" on it. In front of pj in the background of the picture is a wall from a GitHub booth at an event](assets/Pj_flexin.jpg)
 
 Wow that picture was wild. Good job, Pj. 
 
@@ -17,7 +17,7 @@ There's no other way, my friend.
 |----|----|
 |Food| Korean doenjang jjigae|
 |Music| Vaporwave/Synthwave|
-|Editor|VSCode|
+|Editor| VSCode|
 |Movie| Wall-e|
 |Sport| Tennis|
 
