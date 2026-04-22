@@ -5,7 +5,7 @@
 
 Indeed, dear reader. I do work for GitHub. And perhaps a nice clean professional README is something a professional person should have. But using my own profile emphasizes the real world effects of making changes to your main repo and lets me have a little fun. Like how the picture coming up will change every time I do this exercise, so visitors to my profile will never know what they're gonna get. 
 
-![Picture Pj laughing in a blue shirt](assets/pj_laugh.jpg)
+![an old screen showing the energy usage of a computer. This was popular in PCs in the 90s and 2000s.](assets/energy_os.jpg)
 
 Wow that picture was wild. Good job, Pj. 
 
